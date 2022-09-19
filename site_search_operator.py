@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 import time
 
-from bs4 import BeautifulSoup
 
 urls = [
     'nu.nl',
